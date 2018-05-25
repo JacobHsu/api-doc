@@ -6,7 +6,7 @@ module.exports = function(grunt) {
       apidoc: {
         myapp: {
           src: "src/",
-          dest: "dest/"
+          dest: "dist/"
         }
       }
     });
